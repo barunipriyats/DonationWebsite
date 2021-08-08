@@ -5,7 +5,6 @@ This repository contains HTML, CSS & JS code for a donation website where the ap
 * Bootstrap
 * Font Awesome
 * Google Fonts
-* Media Queries
 
 # Specialities
 * Razorpay payment gateway is used for making money transactions. 
