@@ -25,5 +25,3 @@ This repository contains HTML, CSS & JS code for a donation website where the ap
 # Screenshot 
 ![Here is a screenshot of what it looks like](screenshot.PNG)
 
-# Project Link
-https://barunipriyats.github.io/DonationWebsite/
