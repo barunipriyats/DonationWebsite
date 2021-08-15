@@ -20,7 +20,10 @@ This repository contains HTML, CSS & JS code for a donation website where the ap
 * The Contact section contains a subscription button to subscribe to the newsletter and links to their social media accounts. <br />
 * Clicking on the "Donate Now" button leads to the payment section which collects details like the amount to be donated and some personal details. <br />
 * There are different methods for making transaction like Netbanking, UPI, etc. (test mode) <br />
-* On successful payment, the donor will receive a payment receipt through the registered email. <br />
+* On successful payment, the donor will receive a payment receipt through the registered email. 
+
+# Project Link
+https://github.io/barunipriyats/DonationWebsite/
 
 # Screenshot 
 ![Here is a screenshot of what it looks like](screenshot.png)
