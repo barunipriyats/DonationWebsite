@@ -23,5 +23,5 @@ This repository contains HTML, CSS & JS code for a donation website where the ap
 * On successful payment, the donor will receive a payment receipt through the registered email. <br />
 
 # Screenshot 
-![Here is a screenshot of what it looks like](screenshot.PNG)
+![Here is a screenshot of what it looks like](screenshot.png)
 
